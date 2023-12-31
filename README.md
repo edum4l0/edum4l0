@@ -9,7 +9,7 @@ I have a strong interest in econometrics and have engaged in several projects to
 While I've completed various projects, I still consider myself in the learning phase, continuously seeking to expand my knowledge.
 
 * 🌍  I'm based in Brussels / Palma de Mallorca
-* 🧠  I'm learning Python, Django, R, Julia, PowerBI
+* 🧠  I'm learning Python, Django, R, Matlab, PowerBI
 * 🤝  I'm open to collaborate on DataViz projects, automation of all kinds of routinary processes, designing scripts to make our lifes easier.
 
 ### Skills

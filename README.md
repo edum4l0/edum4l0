@@ -1,6 +1,6 @@
 Hello, my name is Edu Machuca ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-###### <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Data Analyst | Automation processes | Economics.</span>
+####### <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Data Analyst | Automation processes | Economics.</span>
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -8,8 +8,8 @@ Hello, my name is Edu Machuca ![](https://user-images.githubusercontent.com/1835
 I have a strong interest in econometrics and have engaged in several projects to deepen my understanding. 
 While I've completed various projects, I still consider myself in the learning phase, continuously seeking to expand my knowledge.
 
-* 🌍  I'm based in Palma de Mallorca / Brussels
-* 🧠  I'm learning Django, R, Julia, Python
+* 🌍  I'm based in Brussels / Palma de Mallorca
+* 🧠  I'm learning Python, Django, R, Julia, PowerBI
 * 🤝  I'm open to collaborate on DataViz projects, automation of all kinds of routinary processes, designing scripts to make our lifes easier.
 
 ### Skills

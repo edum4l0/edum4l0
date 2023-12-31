@@ -1,6 +1,6 @@
 Hello, my name is Edu Machuca ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-####### <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Data Analyst | Automation processes | Economics.</span>
+###### <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Data Analyst | Automation processes | Economics.</span>
 
 ------------------------------------------------------------------------------------------------------------------
 

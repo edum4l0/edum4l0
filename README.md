@@ -8,9 +8,9 @@ Hello, my name is Edu Machuca ![](https://user-images.githubusercontent.com/1835
 I have a strong interest in econometrics and have engaged in several projects to deepen my understanding. 
 While I've completed various projects, I still consider myself in the learning phase, continuously seeking to expand my knowledge.
 
-* 🌍  I'm based in Brussels / Palma de Mallorca
+* 🌍  I'm based in Gijon / Palma de Mallorca / Brussels (Traveling quite often between them)
 * 🧠  I'm learning Python, Django, R, Matlab, PowerBI
-* 🤝  I'm open to collaborate on DataViz projects, automation of all kinds of routinary processes, designing scripts to make our lifes easier.
+* 🤝  I'm open to collaborate on DataViz projects, automation of routinary and recursive processes: I like thinking on the design of scripts that make our lifes easier.
 
 ### Skills
 
